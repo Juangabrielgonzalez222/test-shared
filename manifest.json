@@ -1,0 +1,15 @@
+{
+	"app/repl.rb" : { "filesize" : 9189, "filetime" : 1706447964 },
+	"app/main.rb" : { "filesize" : 88, "filetime" : 1706447964 },
+	"open-source-licenses.txt" : { "filesize" : 31939, "filetime" : 1706447964 },
+	"metadata/icon.png" : { "filesize" : 157056, "filetime" : 1706447964 },
+	"metadata/game_metadata.txt" : { "filesize" : 3838, "filetime" : 1706447964 },
+	"metadata/cvars.txt" : { "filesize" : 759, "filetime" : 1706447964 },
+	"metadata/dragonruby_production_build" : { "filesize" : 0, "filetime" : 1706447965 },
+	"dragonruby.png" : { "filesize" : 14417, "filetime" : 1706447965 },
+	"dragonruby-controller.png" : { "filesize" : 32688, "filetime" : 1706447965 },
+	"console-logo.png" : { "filesize" : 25034, "filetime" : 1706447965 },
+	"font.ttf" : { "filesize" : 3146844, "filetime" : 1706447965 },
+	"README-mygame.txt" : { "filesize" : 70, "filetime" : 1706447965 },
+	"" : {}
+}
